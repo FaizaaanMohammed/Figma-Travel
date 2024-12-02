@@ -67,7 +67,7 @@ const Footer = () => {
                   }}
                 >
                   <a
-                    href=""
+                    href="/about"
                     style={{
                       color: "#5E6282",
                       textDecoration: "none",
@@ -87,7 +87,7 @@ const Footer = () => {
                   }}
                 >
                   <a
-                    href=""
+                    href="/creers"
                     style={{
                       color: "#5E6282",
                       textDecoration: "none",
@@ -107,7 +107,7 @@ const Footer = () => {
                   }}
                 >
                   <a
-                    href=""
+                    href="/Mobile"
                     style={{
                       color: "#5E6282",
                       textDecoration: "none",
@@ -142,7 +142,7 @@ const Footer = () => {
                   }}
                 >
                   <a
-                    href=""
+                    href="/Help"
                     style={{
                       color: "#5E6282",
                       textDecoration: "none",
@@ -162,7 +162,7 @@ const Footer = () => {
                   }}
                 >
                   <a
-                    href=""
+                    href="press"
                     style={{
                       color: "#5E6282",
                       textDecoration: "none",
@@ -182,7 +182,7 @@ const Footer = () => {
                   }}
                 >
                   <a
-                    href=""
+                    href="/affilates"
                     style={{
                       color: "#5E6282",
                       textDecoration: "none",
@@ -217,7 +217,7 @@ const Footer = () => {
                   }}
                 >
                   <a
-                    href="#"
+                    href="airlinefees"
                     style={{
                       color: "#5E6282",
                       textDecoration: "none",
@@ -237,7 +237,7 @@ const Footer = () => {
                   }}
                 >
                   <a
-                    href="#"
+                    href="/airline"
                     style={{
                       color: "#5E6282",
                       textDecoration: "none",
@@ -257,7 +257,7 @@ const Footer = () => {
                   }}
                 >
                   <a
-                    href="#"
+                    href="/low fare tip"
                     style={{
                       color: "#5E6282",
                       textDecoration: "none",
